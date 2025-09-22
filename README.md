@@ -14,3 +14,11 @@ Users can view available pets (dogs & cats), and adopters can adopt them.
 1. Compile the project:
    ```bash
    javac *.java
+
+
+🌱 Future Improvements
+ - Improve the OOP Structure by making another class handle the adoption
+ - Save adopters and pets using file handling 
+ - Add a database (SQL) for persistence 
+ - Create a GUI version with JavaFX or Swing
+   
