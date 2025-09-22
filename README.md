@@ -16,7 +16,7 @@ Users can view available pets (dogs & cats), and adopters can adopt them.
    javac *.java
 
 
-🌱 Future Improvements
+## 🌱 Future Improvements
  - Improve the OOP Structure by making another class handle the adoption
  - Save adopters and pets using file handling 
  - Add a database (SQL) for persistence 
