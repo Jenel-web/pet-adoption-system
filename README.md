@@ -20,5 +20,5 @@ Users can view available pets (dogs & cats), and adopters can adopt them.
  - Improve the OOP Structure by making another class handle the adoption
  - Save adopters and pets using file handling 
  - Add a database (SQL) for persistence 
- - Create a GUI version with JavaFX or Swing
+ - Create a GUI version with JavaFX or Swing (I might use HTML, CSS, JS)
    
