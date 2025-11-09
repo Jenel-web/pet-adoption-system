@@ -122,7 +122,7 @@ public class Main
                         continue outerLoop;
                     
                     default:
-                        System.out.println("Thank you for choosing our adoption center. Please come again sometime.");
+                        System.out.println("/nThank you for choosing our adoption center. Please come again sometime.");
                         break outerLoop;
                 }   
             }
